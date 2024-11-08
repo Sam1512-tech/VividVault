@@ -1,6 +1,6 @@
-# Artify Web App
+# VividVault Web App
 
-Welcome to Artify, a web application showcasing artistic images from various categories.
+Welcome to VividVault, a web application showcasing artistic images from various categories.
 
 ## Usage
 
@@ -20,4 +20,4 @@ Welcome to Artify, a web application showcasing artistic images from various cat
 
 This approach ensures a dynamic and category-dependent experience when managing your favorite images.
 
-Feel free to explore, enjoy the art, and have a great experience with Artify!
+Feel free to explore, enjoy the art, and have a great experience with VividVault!
